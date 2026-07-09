@@ -1,10 +1,7 @@
+import Login from "./pages/Login";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello Samiksha 👋</h1>
-      <p>Welcome to Adaptive AI Learning Engine</p>
-    </div>
-  );
+  return <Login />;
 }
 
 export default App;
