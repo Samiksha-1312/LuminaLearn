@@ -22,10 +22,6 @@ function BrandingPanel() {
         Grow Faster.
       </h2>
 
-      <p>
-        Turn your notes into personalized
-        learning experiences powered by AI.
-      </p>
 
     </div>
   );
