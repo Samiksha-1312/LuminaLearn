@@ -6,10 +6,7 @@ function LoginForm() {
 
       <h1>Welcome Back!</h1>
 
-      <p>
-        Continue your personalized learning journey.
-      </p>
-
+    
       <form>
 
         <label>Email Address</label>
