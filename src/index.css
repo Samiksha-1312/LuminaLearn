@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -13,5 +15,5 @@ body,
 
 body {
     margin: 0;
-    font-family: Inter, sans-serif;
+    font-family: 'Aref Ruqaa Ink', serif;
 }
