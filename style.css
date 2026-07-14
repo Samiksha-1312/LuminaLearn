@@ -11,10 +11,11 @@ body {
     font-family: 'Aref Ruqaa Ink', serif;
     background-color: #98C1D9;
     color: #333;
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .login-container {
@@ -79,7 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #98C1D9;
-    padding: 40px;
+    padding: 20px 40px;
 }
 
 .login-form-container h1 {
@@ -89,7 +90,7 @@ body {
 }
 
 .signup-title {
-    margin-top: 90px;
+    margin-top: 30px;
 }
 
 .login-form-container form {
@@ -97,18 +98,18 @@ body {
     flex-direction: column;
     width: 100%;
     max-width: 380px;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 .login-form-container label {
-    margin-bottom: 8px;
-    margin-top: 15px;
+    margin-bottom: 4px;
+    margin-top: 8px;
     font-weight: 700;
     color: #4A4A4A;
 }
 
 .login-form-container input {
-    padding: 14px;
+    padding: 10px 14px;
     border-radius: 8px;
     border: 2px solid #E5E4E7;
     outline: none;
@@ -123,8 +124,8 @@ body {
 }
 
 .login-form-container button {
-    margin-top: 30px;
-    padding: 14px;
+    margin-top: 20px;
+    padding: 10px 14px;
     background: #3D5A80;
     color: white;
     border: none;
@@ -146,7 +147,7 @@ body {
 }
 
 .login-links {
-    margin-top: 25px;
+    margin-top: 15px;
     text-align: center;
 }
 
