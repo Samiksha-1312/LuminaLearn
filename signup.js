@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         alert(`Account created successfully for ${fullName}! Welcoming you to LuminaLearn.`);
         
         // Redirect to login page
-        window.location.href = './index.html';
+        window.location.href = './login.html';
     });
 
     // Helper: Simple email validation

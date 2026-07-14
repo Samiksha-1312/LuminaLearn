@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Mock login success
         alert(`Welcome to LuminaLearn! Logging in as: ${email}`);
+        window.location.href = './index.html';
     });
 
     // Helper: Simple email regex validation
